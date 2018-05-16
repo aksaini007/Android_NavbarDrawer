@@ -1,4 +1,4 @@
-# navbar_drawer
+# Android Navbar Drawer
 This project is to add a navigation drawer in app.
 * Targeted Sdk version is 26.
 * Minimum Sdk version is 16.
